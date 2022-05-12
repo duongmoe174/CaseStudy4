@@ -1,6 +1,6 @@
 package com.team3.case4team3.service.jwt;
 
-import com.duong.mycase4.model.DTO.Principle.UserPrinciple;
+import com.team3.case4team3.model.DTO.Principle.UserPrinciple;
 import io.jsonwebtoken.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
